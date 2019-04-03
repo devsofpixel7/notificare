@@ -1,6 +1,6 @@
 <?php
 
-namespace Devsofpixel7\Notificare;
+namespace Devsofpixel7\Notificares;
 
 use Devsofpixel7\Notificare\Exceptions as Exception;
 use JsonSerializable;

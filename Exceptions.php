@@ -1,6 +1,6 @@
 <?php
 
-namespace Devsofpixel7\Notificare;
+namespace Devsofpixel7\Notificared;
 
 use Exception;
 
