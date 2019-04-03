@@ -1,0 +1,21 @@
+{
+    "name": "devsofpixel7/notificared",
+    "description": "Notificare API wrapper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hervie Hrvoje Kotarac",
+            "email": "h.kotarac@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "files": ["Notification.php"]
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
