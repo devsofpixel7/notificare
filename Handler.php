@@ -1,6 +1,6 @@
 <?php
 
-namespace Devsofpixel7\Notificared;
+namespace Devsofpixel7\Notificare;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
@@ -26,7 +26,6 @@ class Handler {
     }
 
 
-
     /**
      * @param IEjabberdCommand $command
      * @return null|\Psr\Http\Message\StreamInterface
@@ -48,7 +47,6 @@ class Handler {
         return (new Api)->request('GET', $url, $request, $message);
 
     }
-
 
 
     /**

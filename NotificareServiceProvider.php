@@ -1,6 +1,6 @@
 <?php
 
-namespace Devsofpixel7\Notificared;
+namespace Devsofpixel7\Notificare;
 
 use Illuminate\Support\ServiceProvider;
 
